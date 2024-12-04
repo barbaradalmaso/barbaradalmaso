@@ -1,1 +1,1 @@
-![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaradalmaso&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradalmaso&layout=compact)](https://github.com/barbaradalmaso/github-readme-stats)
