@@ -1,6 +1,6 @@
 ![Unknown](https://github.com/user-attachments/assets/8c07c627-bedf-4cc4-99b7-d6c7ab8c1124)
 
-My research area encompasses the molecular mechanisms in human health and disease, including the regulatory networks of genes involved in cancer pathogenesis and neurodegenerative pathways. I have experience in bioinformatics, analyzing human and murine NGS (next-generation sequencing) and clinical data, designing experiments, and developing statistical and machine learning-based predictive models.
+My research area encompasses molecular mechanisms of human health and disease, including the regulatory networks of genes involved in inflammation, cancer pathogenesis and neurodegenerative pathways. I have experience in bioinformatics, analyzing human and murine NGS (next-generation sequencing) and clinical data, and developing statistical and machine learning-based predictive models.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
