@@ -10,4 +10,4 @@ My research area encompasses molecular mechanisms of human health and disease, i
   <a href="https://www.researchgate.net/profile/Barbara-Dalmaso"><img src="https://img.shields.io/badge/Research_Gate-cyan?style=flat-square"></a>
   <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Dalmaso%2C+Barbara%5BAuthor%5D&sort=relevance"><img src="https://img.shields.io/badge/PubMed-darkblue?style=flat-square"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradalmaso&layout=compact&theme=dracula)](https://github.com/barbaradalmaso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradalmaso&layout=compact&theme=cobalt)](https://github.com/barbaradalmaso/github-readme-stats)
