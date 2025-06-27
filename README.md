@@ -3,7 +3,7 @@
 ## Developed projects
 | Repository | About | Links | Skills & Tools
 | -----------| ------- | ----- | ------------- |
-| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) **Pan-carcinoma analysis** |Patient-driven multi-omics and clinical data integration project using the Genomic Data Commons (GDC) cancer database to compare multiple carcinoma subtypes with AI and statistical modeling. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) [![webicon](web-icon.svg)]([https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis](https://www.sciencedirect.com/science/article/pii/S0014482725002435)) | `Data analysis` `Biostatistics` `Transcriptomics` `Cancer Genetics` |
+| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) **Pan-carcinoma analysis** |Patient-driven multi-omics and clinical data integration project using the Genomic Data Commons (GDC) cancer database to compare multiple carcinoma subtypes with AI and statistical modeling. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) [![webicon](web-icon.svg)](https://www.sciencedirect.com/science/article/pii/S0014482725002435)) | `Data analysis` `Biostatistics` `Transcriptomics` `Cancer Genetics` |
 
 ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=62BBB9)
 ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=62BBB9)
