@@ -12,4 +12,4 @@
 ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=62BBB9)
 ![SQL](https://img.shields.io/badge/-SQL-2C3038?&logo=sqlite&logoColor=62BBB9)
 
-![my-github-status](https://github-readme-stats.vercel.app/api?username=barbaradalmaso&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&bg_color=2C3038&icon_color=62BBB9&title_color=cdd9e5&text_color=cdd9e5&border_color=3d444d)
+![my-github-status](https://github-readme-stats.vercel.app/api?username=barbaradalmaso&hide_rank=true&show_icons=true&text_bold=false&bg_color=2C3038&icon_color=62BBB9&title_color=cdd9e5&text_color=cdd9e5&border_color=3d444d&hide=prs,issues,contribs&hide_title=true)
