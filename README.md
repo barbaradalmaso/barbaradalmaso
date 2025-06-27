@@ -1,4 +1,4 @@
-![Unknown]((https://github.com/barbaradalmaso/barbaradalmaso/blob/bc5b5da5f386b4a24e112871d112f376ff859f68/Apresentac%CC%A7a%CC%83o1.jpg)
+![Unknown](https://raw.githubusercontent.com/barbaradalmaso/barbaradalmaso/refs/heads/main/header.jpg)
 
 Data Scientist with solid experience in analyzing large-scale health datasets and next-generation sequencing (NGS) data. Skilled in statistical modeling and proficient in both supervised and unsupervised machine learning techniques. Strong background in pipeline processing, data wrangling, and visualization. Known for sharp analytical skills, critical thinking, and the ability to communicate complex data into actionable insights.
 
