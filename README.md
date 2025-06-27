@@ -1,7 +1,7 @@
 ![Unknown](https://raw.githubusercontent.com/barbaradalmaso/barbaradalmaso/refs/heads/main/header.jpg)
 
 ## Developed projects
-| Repository | About | Links | Skills & Tools
+| Project | About | Links | Skills & Tools
 | -----------| ------- | ----- | ------------- |
 | [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) **Pan-carcinoma analysis** |Patient-driven multi-omics and clinical data integration project using the Genomic Data Commons (GDC) cancer database to compare multiple carcinoma subtypes with AI and statistical modeling. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) [![webicon](web-icon.svg)](https://www.sciencedirect.com/science/article/pii/S0014482725002435) | `Data analysis` `Biostatistics` `Transcriptomics` `Cancer Genetics` |
 
