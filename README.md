@@ -1,13 +1,8 @@
 ![Unknown](https://raw.githubusercontent.com/barbaradalmaso/barbaradalmaso/refs/heads/main/header.jpg)
 
-Data Scientist with solid experience in analyzing large-scale health datasets and next-generation sequencing (NGS) data. Skilled in statistical modeling and proficient in both supervised and unsupervised machine learning techniques. Strong background in pipeline processing, data wrangling, and visualization. Known for sharp analytical skills, critical thinking, and the ability to communicate complex data into actionable insights.
-
-<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
-<p>
-  <a href="https://www.linkedin.com/in/barbara-dalmaso/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com.br/citations?user=UlVgVu0AAAAJ&hl=pt-BR"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=flat-square"></a>
-  <a href="https://orcid.org/0000-0002-1189-5837"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square"></a>
-  <a href="https://www.researchgate.net/profile/Barbara-Dalmaso"><img src="https://img.shields.io/badge/Research_Gate-cyan?style=flat-square"></a>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Dalmaso%2C+Barbara%5BAuthor%5D&sort=relevance"><img src="https://img.shields.io/badge/PubMed-darkblue?style=flat-square"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradalmaso&layout=compact&theme=cobalt)](https://github.com/barbaradalmaso/github-readme-stats)
+![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=62BBB9)
+![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=62BBB9)
+![Bash](https://img.shields.io/badge/-Bash-2C3038?&logo=linux&logoColor=62BBB9)
+![HTML](https://img.shields.io/badge/-HTML/CSS-2C3038?&logo=html5&logoColor=62BBB9)
+![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=62BBB9)
+![SQL](https://img.shields.io/badge/-SQL-2C3038?&logo=sqlite&logoColor=62BBB9)
