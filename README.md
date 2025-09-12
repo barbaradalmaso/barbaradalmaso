@@ -3,11 +3,9 @@
 ## Developed projects
 | Job | About | Links | Skills & Tools
 | -----------| ------- | ----- | ------------- |
-| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) **Pan-carcinoma analysis** |Patient-driven multi-omics and clinical data integration project using the Genomic Data Commons (GDC) cancer database to compare multiple carcinoma subtypes with AI and statistical modeling. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) [![webicon](web-icon.svg)](https://www.sciencedirect.com/science/article/pii/S0014482725002435) | `Data analysis` `Biostatistics` `Transcriptomics` `Cancer Genetics` |
-| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/cdisc-teal) **CDISC Data Exploration App** | Interactive Shiny application built with the `teal` framework to explore synthetic CDISC datasets (`ADSL`, `ADAE`), including adverse events, demographics, missing data, and response plots. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/cdisc-teal) [![webicon](web-icon.svg)](https://bdalmaso.shinyapps.io/cdisc-teal/) | `R Shiny` `teal` `CDISC` `Data visualization` `Pharmaverse` |
-
-
-
+| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) **Pan-carcinoma analysis** |Patient-driven multi-omics and clinical data integration project using the Genomic Data Commons (GDC) cancer database to compare multiple carcinoma subtypes with `AI` and `statistical modeling`. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/PTAFR-carcinoma-analysis) [![webicon](web-icon.svg)](https://www.sciencedirect.com/science/article/pii/S0014482725002435) | `Data analysis` `Biostatistics` `Transcriptomics` `Cancer Genetics` |
+| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/cdisc-teal) **CDISC Data Exploration App** | Interactive Shiny application built with the `teal` framework to explore synthetic CDISC datasets (`ADSL`, `ADAE`), including adverse events, demographics, missing data, and response plots. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/cdisc-teal) [![webicon](web-icon.svg)](https://bdalmaso.shinyapps.io/cdisc-teal/) | `R Shiny` `teal` `CDISC` `Dataviz` `Pharmaverse` `Clinical trial`|
+| [![repoicon](repo-icon.svg)](https://github.com/barbaradalmaso/clinical-data-processing) **Clinical Data Processing** | Quarto website showcasing `SDTM` and `ADaM` workflows using synthetic HIV clinical trial data, including demographics, lab results, treatment arms and `TLG` visualizations. | [![giticon](github-icon.svg)](https://github.com/barbaradalmaso/clinical-data-processing) [![webicon](web-icon.svg)](https://barbaradalmaso.github.io/clinical-data-processing/) | `Quarto` `CDISC` `Dataviz` `Pharmaverse` `ETL` `Clinical trial`|
 
 ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=62BBB9)
 ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=62BBB9)
@@ -17,4 +15,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-2C3038?&logo=sqlite&logoColor=62BBB9)
 ![SAS](https://img.shields.io/badge/-SAS-2C3038?&logo=sqlite&logoColor=62BBB9)
 
-![my-github-status](https://github-readme-stats.vercel.app/api?username=barbaradalmaso&hide_rank=true&show_icons=true&text_bold=false&bg_color=2C3038&icon_color=62BBB9&title_color=cdd9e5&text_color=cdd9e5&border_color=3d444d&hide=prs,issues,contribs&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaradalmaso&layout=compact&hide_rank=true&show_icons=true&text_bold=false&bg_color=2C3038&icon_color=62BBB9&title_color=cdd9e5&text_color=cdd9e5&border_color=3d444d)
+
