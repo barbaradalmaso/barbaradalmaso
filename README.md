@@ -1,4 +1,4 @@
-![Unknown](https://raw.githubusercontent.com/barbaradalmaso/barbaradalmaso/refs/heads/main/header.png)
+![Unknown](https://raw.githubusercontent.com/barbaradalmaso/barbaradalmaso/refs/heads/main/header-up-2.jpg)
 
 ## Developed projects
 | Job | About | Links | Skills & Tools
